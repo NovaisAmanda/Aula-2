@@ -1,3 +1,4 @@
+#include "funcoes.h"
 #include <stdio.h>
 
 int main(void) {
